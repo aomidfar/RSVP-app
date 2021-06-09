@@ -1,1 +1,3 @@
 # RSVP-app
+
+This app helps planning an event. Guests can be added by entering their name in the input and click on submit. If the guests see that there is a typo in their name they have an option to click on edit button which will enable the user to make changes to the name. The edit button will switch to save button while the user is making changed to the name. Once the name has been corrected the user can press save and either confirm that they are going to the party by clicking the confirmed chebox or they can remove their name all together by clicking on the remove button. There is an option for the user to click on the checkbox (hide who haven't responded) and see the guests who have not removed nor confirmed coming to the event.
